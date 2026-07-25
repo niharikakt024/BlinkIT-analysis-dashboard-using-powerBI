@@ -1,4 +1,4 @@
-# 🛒 BlinkIT Analysis Dashboard using Power BI
+# 🛒 BlinkIT Analysis Dashboard using PowerBI
 
 An interactive **Power BI dashboard** analyzing sales performance across Blinkit's outlets — covering total sales, ratings, fat content, item type, outlet establishment trends, outlet size/location, and outlet type, all filterable by outlet location type, outlet size, and item type.
 
@@ -74,11 +74,13 @@ BlinkIT-analysis-dashboard/
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
+Niharika K T
 
-**Niharika**
-GitHub: [@niharikakt024](https://github.com/niharikakt024)
+Aspiring Data Analyst | Power BI | SQL | Excel | Python | Data Visualization
 
----
+📧 Email: niharikakt024@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/niharika-k-t-8a1a2728a
+💻 GitHub: https://github.com/niharikakt024
 
 ⭐ If you find this project useful, consider giving the repository a star!

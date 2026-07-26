@@ -44,7 +44,7 @@ A single-page view combining top-line KPIs, item/fat-content breakdowns, outlet 
 BlinkIT-analysis-dashboard/
 │
 ├── Blinkit-analysis.pbix          # Power BI dashboard file
-├── BlinkIT Grocery Data.xlsx                  # Source data files (if included)
+├── BlinkIT Grocery Data.xlsx                  # Source data files 
 ├── Dashboad.png           # Dashboard preview images
 └── README.md                # Project documentation
 ```
